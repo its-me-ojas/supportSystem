@@ -1,4 +1,4 @@
-# <a href="./index.html">Routine</a>
+# <a href="./routine.html">Routine</a>
 # Things to focus on
 - Data Structures and Algorithms
 - Web Development
