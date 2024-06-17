@@ -1,6 +1,9 @@
+# Routine
+>   <a href="./index.html">Routine</a>
 # Things to focus on
 - Data Structures and Algorithms
 - Web Development
+- To become a hot mum 
 
 # Data Structures and Algorithms
 - #### Language you will be using
@@ -19,3 +22,11 @@
 - #### What you have to do
 	- I will find the playlist actually because I myself have done it from various sources and yeah right now I'm following an intermediate udemy course , I will tell you about a beginner one where it will teach Java also.
 	- You will go with the course and watch each video and try to code side by side , (side by side is mandatory and try to think why he did that specific thing, try to play with the code)
+
+# To become a hot mum
+- #### Things you have to do
+	- lots of cardio 
+	- lots of eating so you don't lose fat from good areas
+	- and lots of exercise
+- #### Exercises 
+	- I will provide them shortly, just need a more time on selection
