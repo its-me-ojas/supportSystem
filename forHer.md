@@ -1,6 +1,4 @@
-# Routine
->   <a href="./index.html">Routine</a>
-# Things to focus on
+# <a href="./index.html">Routine</a># Things to focus on
 - Data Structures and Algorithms
 - Web Development
 - To become a hot mum 
