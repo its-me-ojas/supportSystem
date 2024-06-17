@@ -21,7 +21,7 @@
 - # 18:00 - 20:00
 	- free to whatever you want,
 	- try to get dinner in this time frame 
-- 20:00 - 23:00
+- # 20:00 - 23:00
 	- Leetcode questions and the sheet I provided you with
 - # 23:00 - 00:00
 	- go to sleep and yeah if you feel like talking to me then yeah I will be waiting
