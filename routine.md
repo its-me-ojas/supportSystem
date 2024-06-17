@@ -1,0 +1,26 @@
+- # 00:00 - 06:00
+	- get your beauty sleep in,
+	- definitely dream about me
+- # 06:00 - 07:00
+	- wake up, 
+	- drink 1 litre water,
+	- go for a walk for fresh air, ( 30 minutes )
+	- perform stretches to ease up your body,
+	- go for bath
+- # 07:00 - 12:00
+	- get your breakfast in and then start with the spring boot and java course , try to maximise your watch time
+	- its like whatever he's teaching, try to do it side by side and if you still get stuck in a problem then you can just message me ( I'm always available for you )
+- # 12:00 - 13:00
+	- here you will do one hour workout ( workout will be provided )
+- # 13:00 - 14:00
+	- get your lunch in 
+	- if you have to watch any series then watch it in this time frame only
+- # 14:00 - 18:00
+	- watch the youtube playlist for DSA 
+- # 18:00 - 20:00
+	- free to whatever you want,
+	- try to get dinner in this time frame 
+- 20:00 - 23:00
+	- Leetcode questions and the sheet I provided you with
+- # 23:00 - 00:00
+	- go to sleep and yeah if you feel like talking to me then yeah I will be waiting
